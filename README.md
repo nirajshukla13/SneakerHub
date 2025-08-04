@@ -33,7 +33,7 @@ SneakerHub is a sleek, modern sneaker e-commerce web application built using **R
 
 ## 📂 Folder Structure
 
-
+```
 sneakerhub/
 │
 ├── client/                # Frontend (React + Vite)
@@ -63,6 +63,7 @@ sneakerhub/
 ├── .env                  # Environment variables
 ├── README.md
 └── .gitignore
+```
 
 ---
 
